@@ -34,7 +34,9 @@ Upon loading, you will see the day, date, and time at the top of the page. After
 
 10. Format. (https://day.js.org/docs/en/display/format). (2023).
 
-11. Jimenez, Andres. Tutor. (2023).
+11. Atif, Kaitlyn. (https://github.com/kaitlynatif). (https://github.com/kaitlynatif/WorkDay_Scheduler). (2023).
+
+12. Jimenez, Andres. Tutor. (2023).
 
 
 ## License
